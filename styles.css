@@ -1,5 +1,5 @@
 header{
-    background: url(/images/summerrr.jpg)no-repeat;
+    background: url(images/summerrr.jpg)no-repeat;
     background-size: cover;
     height: 70px;
     padding: 10px 20px;
@@ -20,7 +20,7 @@ nav ul li a {
     text-decoration: none;
 }
 body{
-    /* background: url(/images/ian-dooley-DuBNA1QMpPA-unsplash.jpg)no-repeat; */
+    background: url(/images/ian-dooley-DuBNA1QMpPA-unsplash.jpg)no-repeat;
     background-size: cover;
     font-family: sans-serif;
     font-size: xx-large;
@@ -40,11 +40,10 @@ body{
 
 .card {
     font-size: medium;
-    width: 18rem;
+    width: 17rem;
     background-color: #fff;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    width: 300px;
     padding: 20px;
     text-align: center;
     box-sizing: border-box;
@@ -89,3 +88,4 @@ section {
 footer{
     background-color: aliceblue;
 }
+
